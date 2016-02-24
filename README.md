@@ -2,7 +2,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/frontendbr/brasil-php/issues
+Vagas disponíveis em https://github.com/brasil-php/vagas/issues
 
 ## Cadastrando uma vaga
 
